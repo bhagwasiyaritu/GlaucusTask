@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">+Mail</string>
+    <string name="enter_mail">Enter Your E-mail</string>
+    <string name="btn_save_mail">Save</string>
+    <string name="btn_update_mail">Update</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="txt_serial_no">1</string>
+    <string name="txt_delete_msg">Do you want to Delete this E-mail ?</string>
+    <string name="error_msg">ERROR</string>
+</resources>

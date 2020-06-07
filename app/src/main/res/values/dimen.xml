@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width_no">20dp</dimen>
+    <dimen name="height_no">20dp</dimen>
+    <dimen name="width_icon">30dp</dimen>
+    <dimen name="height_icon">30dp</dimen>
+</resources>
